@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="_static">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.venv/Lib/site-packages/pygame/docs/generated/_static/legacy_logos.zip!/" />
+      <root url="jar://$PROJECT_DIR$/.venv/Lib/site-packages/pygame/docs/generated/_static/upstream_logos.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

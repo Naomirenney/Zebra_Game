@@ -1,4 +1,6 @@
-# Future You
+# WELCOME TO ZEBRA FINANCE-THE GAME!
+
+Explore your financial habits in a fun and interactive way!
 
 A small zebra runner that shows what a bank balance is likely to do next.
 Money in is a coin. Money out is a rock. The zebra runs the next few weeks of the account.

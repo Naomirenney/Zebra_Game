@@ -3,7 +3,9 @@
 Explore your financial habits in a fun and interactive way!
 
 A small zebra runner that shows what a bank balance is likely to do next.
-Money in is a coin. Money out is a rock. The zebra runs the next few weeks of the account.
+Money coming in is an orange and spending is a biting bug. Player can either jump over the bug to avoid payment it or stand still to pay it. 
+
+## To win the game: End up with a positive balance, not and overdraft.
 
 This is a forecast, not a promise and not financial advice. It can be wrong.
 

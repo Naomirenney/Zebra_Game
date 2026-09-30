@@ -1,4 +1,7 @@
 # WELCOME TO ZEBRA FINANCE-THE GAME!
+Watch demo videos here: https://drive.google.com/file/d/1IWVRrEuXf12ByVrn9fcAl08Dc7O8Jrv4/view?usp=sharing
+ and https://drive.google.com/file/d/1IWVRrEuXf12ByVrn9fcAl08Dc7O8Jrv4/view?usp=sharing
+
 
 Explore your financial habits in a fun and interactive way!
 
